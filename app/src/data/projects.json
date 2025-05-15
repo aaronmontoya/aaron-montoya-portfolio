@@ -1,0 +1,383 @@
+[
+  {
+    "strSlug": "recharts",
+    "strHeadline": "Data Visualizations Dashboard With React Library Recharts",
+    "strDescription": "Present data as visualizations to aid consumption. The app enables users to dynamically modify the visualizations to change the scope and make comparisons.",
+    "arrTools": ["Recharts", "React", "Vite", "JavaScript", "HTML", "CSS"],
+    "arrArt": [
+      {
+        "name": "cover",
+        "filename": "recharts-dashboard.png",
+        "altText": "Screen capture image depicts user interface of data visualizations dashboard made with Recharts."
+      }
+    ],
+    "arrSections": [
+      {
+        "strHeadline": "Tools"
+      },
+      {
+        "strHeadline": "Demonstrations",
+        "arrBullets": [
+          "<a href=\"https://aaronmontoya.com/recharts-demo\"/>Live App Instance</a>"
+        ]
+      },
+      {
+        "strHeadline": "Role",
+        "arrBullets": ["Software Engineer", "Visual Designer"]
+      },
+      {
+        "strHeadline": "Timeline",
+        "arrBullets": ["April 2025"]
+      },
+      {
+        "strHeadline": "Problem",
+        "arrBullets": [
+          "Use JavaScript framework React and data visualization library Recharts to present a large dataset via a dashboard interface.",
+          "Enable users to filter the dataset to be able to inspect it from many different perspectives."
+        ]
+      },
+      {
+        "strHeadline": "Solution",
+        "arrBullets": [
+          "Use Vite build tool, Recharts data visualization library, write JavaScript, React, HTML and CSS to develop a web app that presents a large dataset to users via a dashboard interface.",
+          "Enable users to filter the dataset via a segment of the user interface. Input elements trigger execution of logic that dynamically changes the scope of the dataset presented via the dashboard of visualizations.",
+          "Use visual design techniques to make the data visualizations legible and easy to interpret and to make the user interface feel intuitive and provide efficacious interactions for users."
+        ]
+      }
+    ]
+  },
+  {
+    "strSlug": "lrng",
+    "strHeadline": "User Interface for LRNG Education App",
+    "strDescription": "Accessible modular HTML, CSS UI patterns. Animated graphical navigation.",
+    "arrTools": ["JavaScript", "HTML", "CSS"],
+    "arrArt": [
+      {
+        "name": "cover",
+        "filename": "lrng-app-admin-playlist-xps.png",
+        "altText": "Screen capture image depicts user interface of LRNG educational app."
+      }
+    ],
+    "arrSections": [
+      {
+        "strHeadline": "Tools"
+      },
+      {
+        "strHeadline": "Demonstrations",
+        "arrBullets": [
+          "<a href='https://github.com/aaronmontoya/lrng-app/'>Code Samples at GitHub</a>",
+          "<a href='https://aaronmontoya.com/design/examples/lrng-admin-ui/'>Example View of Administrative UI</a>",
+          "<a href='https://aaronmontoya.com/design/examples/lrng-scripts-docs/'>Scripts Documentation</a>"
+        ]
+      },
+      {
+        "strHeadline": "Role",
+        "arrBullets": ["Front-End Developer"]
+      },
+      {
+        "strHeadline": "Timeline",
+        "arrBullets": ["February 2019–2020"]
+      },
+      {
+        "strHeadline": "Clients",
+        "arrBullets": ["LRNG", "Southern New Hampshire University"]
+      },
+      {
+        "strHeadline": "Stakeholders",
+        "arrBullets": [
+          "Students, learning organization leaders",
+          "Collective Shift, SNHU leaders",
+          "Concentric Sky leaders, colleagues"
+        ]
+      },
+      {
+        "strHeadline": "Problem",
+        "arrBullets": [
+          "Team needs to ship new feature \"projects\" to enable users to author curricula for students",
+          "Team needs to refactor entire app interface, including administrative UI"
+        ]
+      },
+      {
+        "strHeadline": "Solution",
+        "arrBullets": [
+          "Collaborated closely with front-end developer, UX designer to help team successfully build, test and ship significant refactors of administrative interface <ul><li> Integrate administrative UI, learner UI pattern libraries </li><li> Successfully built, delivered custom SVG navigational interface prototype</li></ul>",
+          "Help team successfully build, test, ship \"projects\" feature<ul><li>Build complex set of components for administrative interface to enable multiple workflow contexts, each with overlay navigation, accessibility quicklinks, sticky elements, toast modals</li></ul>",
+          "Implement accessibility features and collaborated with accessibility designer to ensure the interface meets WCAG standards across all major browsers"
+        ]
+      }
+    ]
+  },
+  {
+    "strSlug": "badgr",
+    "strHeadline": "User Interface for Badgr Credential Wallet App",
+    "strDescription": "Accessible modular HTML, CSS UI patterns.",
+    "arrTools": ["Angular", "JavaScript", "HTML", "CSS"],
+    "arrArt": [
+      {
+        "name": "cover",
+        "filename": "badgr-app-create-badge.png",
+        "altText": "Screen capture image depicts user interface of Badgr credential wallet app."
+      }
+    ],
+    "arrSections": [
+      {
+        "strHeadline": "Tools"
+      },
+      {
+        "strHeadline": "Demonstrations",
+        "arrBullets": [
+          "<a href=\"https://github.com/aaronmontoya/badgr-app\"/>Code Samples at GitHub</a>"
+        ]
+      },
+      {
+        "strHeadline": "Role",
+        "arrBullets": ["Front-End Developer"]
+      },
+      {
+        "strHeadline": "Timeline",
+        "arrBullets": ["October 2018–February 2019", "June–July 2019"]
+      },
+      {
+        "strHeadline": "Clients",
+        "arrBullets": ["Badgr digital credential platform"]
+      },
+      {
+        "strHeadline": "Stakeholders",
+        "arrBullets": ["Current, prospective Badgr users", "Concentric Sky"]
+      },
+      {
+        "strHeadline": "Problem",
+        "arrBullets": [
+          "Team needs to support new users by implementing user onboarding features",
+          "Team needs to support paying users and internal business objectives by implementing pro version features"
+        ]
+      },
+      {
+        "strHeadline": "Solution",
+        "arrBullets": [
+          "Help team successfully build, test and ship interface for user onboarding features<ul><li>Implement accessibility features to meet WCAG standards</li></ul>",
+          "Help team successfully build, test and ship interface for pro version features<ul><li>Refactor patterns that make up main navigation in most of the apps to add notifications and account switching features</li><li>Implement accessibility features to ensure the interface meets WCAG standards across all major browsers; research, test and share accessibility techniques</li><li>Collaborated with accessibility designer to review, refactor and test UI views, workflows and patterns with respect to accessibility features and keyboard navigation</li></ul>"
+        ]
+      }
+    ]
+  },
+  {
+    "strSlug": "bitchin",
+    "strHeadline": "Bitchin' Sauce Marketing Website",
+    "strDescription": "Modular HTML, CSS UI patterns, animations.",
+    "arrTools": ["Expression Engine CMS", "JavaScript", "HTML", "CSS"],
+    "arrArt": [
+      {
+        "name": "cover",
+        "filename": "bitchin-sauce-website-front-page.png",
+        "altText": "Screen capture image depicts user interface of Bitchin' Sauce marketing website."
+      }
+    ],
+    "arrSections": [
+      {
+        "strHeadline": "Tools"
+      },
+      {
+        "strHeadline": "Demonstrations",
+        "arrBullets": [
+          "<a href=\"https://github.com/aaronmontoya/bitchinsauce\"/>Code Samples at GitHub</a>"
+        ]
+      },
+      {
+        "strHeadline": "Role",
+        "arrBullets": ["Full-Stack Web Developer"]
+      },
+      {
+        "strHeadline": "Timeline",
+        "arrBullets": ["January–April 2018"]
+      },
+      {
+        "strHeadline": "Client",
+        "arrBullets": ["Bitchin' Sauce"]
+      },
+      {
+        "strHeadline": "Stakeholders",
+        "arrBullets": [
+          "Bitchin’ Sauce customers",
+          "Bitchin’ Sauce food distributors",
+          "Bitchin’ Sauce food resellers",
+          "Concentric Sky colleagues"
+        ]
+      },
+      {
+        "strHeadline": "Problem",
+        "arrBullets": [
+          "Marketing website needs to enable interested customers to buy, locate and learn about Bitchin’ Sauce products<ul><li>Communication style and aesthetic needs to evoke fun, edgy, healthy brand</li><li>Site performance and communications should help people trust the people behind Bitchin’ Sauce and understand the messages communicated</li></ul>"
+        ]
+      },
+      {
+        "strHeadline": "Solution",
+        "arrBullets": [
+          "Built and maintained user interface pattern library<ul><li>Wrote and organized documentation about modular user interface patterns that constitute the pattern library</li></ul>",
+          "Closely collaborated with visual and user experience designer colleagues to ensure accurate, meaningful implementation of user interface patterns, images and copy",
+          "Initialized, built and published Expression Engine production application",
+          "Consumed and implemented pattern library into  Expression Engine production application",
+          "Wrote JavaScript to provide custom modal slides functionality in production application"
+        ]
+      }
+    ]
+  },
+  {
+    "strSlug": "mixer",
+    "strHeadline": "Audio Mixer Widget",
+    "strDescription": "Responsive, Web Audio API, visual design.",
+    "arrTools": ["Web Audio API", "JavaScript", "HTML", "CSS"],
+    "arrArt": [
+      {
+        "name": "cover",
+        "filename": "audio-mixer.jpg",
+        "altText": "Screen capture image depicts user interface of audio mixer widget."
+      }
+    ],
+    "arrSections": [
+      {
+        "strHeadline": "Tools"
+      },
+      {
+        "strHeadline": "Demonstrations",
+        "arrBullets": [
+          "<a href=\"http://aaronmontoya.com/audio-mixer/\">Audio Mixer Widget Live Instance</a>",
+          "<a href=\"https://github.com/aaronmontoya/audio-mixer-widget\"/>JavaScript Code Repository&mdash;GitHub</a>"
+        ]
+      },
+      {
+        "strHeadline": "Role",
+        "arrBullets": ["Web Developer", "Designer"]
+      },
+      {
+        "strHeadline": "Timeline",
+        "arrBullets": ["July 2017"]
+      },
+      {
+        "strHeadline": "Client",
+        "arrBullets": ["University of Oregon"]
+      },
+      {
+        "strHeadline": "Stakeholders",
+        "arrBullets": ["University of Oregon"]
+      },
+      {
+        "strHeadline": "Problem",
+        "arrBullets": [
+          "To increase interest in and awareness of a new class, I built a JavaScript application to accompany a long-form story. The app, embedded on the page, helps readers understand experientially how students mixed audio during a semester-long class."
+        ]
+      },
+      {
+        "strHeadline": "Solution",
+        "arrBullets": [
+          "I used vanilla JavaScript and the Web Audio API to create the application.",
+          "UO students recorded the instrument tracks, and I used them to create the mixing effect.",
+          "Users can play, pause, mute or stop all instruments at once, turn off any single one or mute multiple, adjust the volume of each and play any solo.",
+          "Users of mobile devices can access all features via a responsive UI."
+        ]
+      }
+    ]
+  },
+  {
+    "strSlug": "tribal",
+    "strHeadline": "Honoring Tribal Legacies Wordpress Website",
+    "strDescription": "Responsive WordPress theme, accessible semantic markup.",
+    "arrTools": [
+      "PHP",
+      "MySQL",
+      "jQuery",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Wordpress CMS"
+    ],
+    "arrArt": [
+      {
+        "name": "cover",
+        "filename": "honoring-tribal-legacies-website.png",
+        "altText": "Screen capture images depict user interface of Honoring Tribal Legacies Wordpress website."
+      }
+    ],
+    "arrSections": [
+      {
+        "strHeadline": "Tools"
+      },
+      {
+        "strHeadline": "Demonstrations",
+        "arrBullets": [
+          "<a href=\"https://github.com/aaronmontoya/honoring-tribal-legacies\"/>Select PHP, jQuery, SASS SCSS, images and HTML&mdash;GitHub</a>"
+        ]
+      },
+      {
+        "strHeadline": "Role",
+        "arrBullets": ["Web Developer", "Designer"]
+      },
+      {
+        "strHeadline": "Timeline",
+        "arrBullets": ["May 2014&ndash;2015"]
+      },
+      {
+        "strHeadline": "Client",
+        "arrBullets": ["National Park Service", "University of Oregon"]
+      },
+      {
+        "strHeadline": "Stakeholders",
+        "arrBullets": ["University of Oregon"]
+      },
+      {
+        "strHeadline": "Problem",
+        "arrBullets": [
+          "Design, build and publish a website that facilitates access to common-core aligned curricula for K–12 teachers. With the resources, teachers can meet common core goals while exposing students to the cultures, histories and significance of the peoples who are considered native to the lands now called the United States of America."
+        ]
+      },
+      {
+        "strHeadline": "Solution",
+        "arrBullets": [
+          "The users of the site are likely teachers of elementary, primary and secondary school children. I made decisions regarding the format of the content, the navigation of the site and its overall architecture based on the desires, values, expectations and behaviors of that persona. I interviewed teachers and sought feedback during each stage of the process, especially during prototyping, to ensure that my perception was accurate. I officially published the website during May 2015. I continue to receive positive feedback from the National Parks Service folks with whom I worked about the impact of the website.",
+          "My role in the project was to build a website, and my charge was to make it as accessible to as many people as possible. I reviewed and understood the content and sketched extensively before setting out to build. The value of sketching, prototyping, research and deep forethought cannot be understated—I believe the process leading up to production is the one that determines the ultimate quality of a product.",
+          "I chose Wordpress as the content management system, because it is an open-source, stable, supported and widely-used tool that is perfect for the simple tasks the website performs. I integrated my custom theme with Wordpress using PHP and used jQuery, HTML and SASS SCSS to create the structure, style and behavior of it. Git paired with GitHub, SublimeText2, and Adobe Creative Suite are tools that I employ during production to manage code versioning and collaboration, compose code and create graphics and video."
+        ]
+      }
+    ]
+  },
+  {
+    "strSlug": "education",
+    "strHeadline": "University of Oregon College of Education Drupal Website",
+    "strDescription": "Create online tools for students, create and manage content, users, collaborate with departments, programs.",
+    "arrTools": ["Drupal CMS", "PHP", "MySQL", "HTML", "CSS"],
+    "arrArt": [
+      {
+        "name": "cover",
+        "filename": "uo-college-of-education-website.png",
+        "altText": "Screen capture image depicts user interface of University of Oregon College of Education Drupal website."
+      }
+    ],
+    "arrSections": [
+      {
+        "strHeadline": "Tools"
+      },
+      {
+        "strHeadline": "Role",
+        "arrBullets": ["Web Developer", "Designer", "Web Content Specialist"]
+      },
+      {
+        "strHeadline": "Timeline",
+        "arrBullets": ["May 2013&ndash;December 2017"]
+      },
+      {
+        "strHeadline": "Client",
+        "arrBullets": ["University of Oregon College of Education"]
+      },
+      {
+        "strHeadline": "Stakeholders",
+        "arrBullets": ["University of Oregon College of Education"]
+      },
+      {
+        "strHeadline": "Solution",
+        "arrBullets": [
+          "Interacted with the Drupal installation to manage the users and content of the University of Oregon College of Education website at <a href=\"https://education.uoregon.edu\">education.uoregon.edu</a>. I created tools that allow applicants to apply to programs and students to add and drop majors. I collaborate with a half-dozen people who also manage content and whose jurisdictions are limited to the scopes of their departments and programs. I create and advocate for publishing content that is user-centered&mdash;the mobile experience should be in equity to the experience on a large display, and it should be accessible and semantically accurate."
+        ]
+      }
+    ]
+  }
+]
