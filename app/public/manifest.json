@@ -1,0 +1,14 @@
+{
+    "name": "Aaron Montoya",
+    "short_name": "Aaron Montoya",
+    "icons": [
+        {
+            "src": "/apple-touch-icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#242424",
+    "background_color": "#242424",
+    "display": "standalone"
+}
