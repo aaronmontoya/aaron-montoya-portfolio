@@ -1,9 +1,11 @@
 import '../../presentation/App.css';
-import { GridChild } from '../../component';
-import { AaronMontoyaLogoMark } from '../../component';
-import { IconOverlappingCircles } from '../../component';
-import { IconAppWindow } from '../../component';
-import { IconHeart } from '../../component';
+import {
+  GridChild,
+  AaronMontoyaLogoMark,
+  IconOverlappingCircles,
+  IconAppWindow,
+  IconHeart,
+} from '../../component';
 import { useEffect } from 'react';
 
 const App = () => {
