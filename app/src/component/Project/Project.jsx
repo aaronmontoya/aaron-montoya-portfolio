@@ -56,7 +56,7 @@ const Project = ({ strSlug }) => {
         `}>
           <img
             alt={objCoverArt.altText}
-            src={objCoverArt.filename}
+            src={`image/${objCoverArt.filename}`}
             width='100%'
             className={`${'bp4--grid-column--1-neg4'}`}
           />

@@ -16,7 +16,7 @@ const GridChild = ({ slug }) => {
     <div>
       <img
         alt={objCoverArt.altText}
-        src={objCoverArt.filename || ''}
+        src={`image/${objCoverArt.filename}` || ''}
         width='100%'
         className={`
           ${'border-radius--0p67rem'}
